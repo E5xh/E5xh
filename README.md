@@ -3,7 +3,7 @@
 ## **Games Programmer (Programmer/Designer/Modeller/Editor)**
 
 
-Hello World! I am a Student Games Programmer currently studying my first year at the University of Portsmouth studying Computer Games Technology where i primarily focus on Unreal Engine 5 development using a mix of both Blueprints aswell as C++. I've been programming for the past 7 years since i was 12 where i've experimented with a wide range of programming tools and languages but most of experience are in c++ and lua. I am into Home Labbing i currently run an old dell optiplex using ubuntu server and manage my own dns and proxy servers aswell as self-hosting my own cloud storage and online media server.
+### Hello World! I am a Student Games Programmer currently studying my first year at the University of Portsmouth studying Computer Games Technology where i primarily focus on Unreal Engine 5 development using a mix of both Blueprints aswell as C++. I've been programming for the past 7 years since i was 12 where ### i've experimented with a wide range of programming tools and languages but most of experience are in c++ and lua. I am into Home Labbing i currently run an old dell optiplex using ubuntu server and manage my own dns and proxy servers aswell as self-hosting my own cloud storage and online media server.
 ---
 
 ### Languages and Tools
